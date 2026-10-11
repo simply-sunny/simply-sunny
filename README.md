@@ -1,16 +1,16 @@
-# Saunak Karnati
+# Saunak Karnati Saunak Karnati
 
-Purdue Computer Science student (expected May 2030) interested in graphics, GPU software, and systems engineering.
+Purdue CS student (expected May 2030) interested in graphics and systems software.
 
-## Current work
+## Projects
 
-- **[Metallum Extra](https://github.com/simply-sunny/metallum-extra)** — Developing a public fork of a Minecraft Metal-rendering add-on, including experimental Iris/OptiFine shader-pack translation and shader configuration tools.
-- **[CinematicZoom](https://github.com/simply-sunny/CinematicZoom)** — Contributed a configurable starting zoom setting and clearer zoom-factor semantics; [merged upstream](https://github.com/mel1x/CinematicZoom/pull/8).
+- **[Metallum Extra](https://github.com/simply-sunny/metallum-extra)** — Building shader compatibility for Minecraft on macOS.
+- **[CinematicZoom](https://github.com/simply-sunny/CinematicZoom)** — Added a starting-zoom option to a Minecraft mod; merged upstream.
 
-## Open-source contribution
+## Open source
 
-- **[Decider](https://github.com/Mapika/decider)** — Contributed Apple Silicon MPS acceleration and MLX/Metal attention optimization, device-aware evaluation, runtime fallback, and validation; [merged upstream](https://github.com/Mapika/decider/pull/2).
+- **[Decider](https://github.com/Mapika/decider)** — Added Apple Silicon support to an open-source AI project.
 
 ## Tools
 
-C++, Java, Python, PyTorch, MLX, Fabric, Gradle, Linux, Git/GitHub
+C++, Java, Python, Linux
