@@ -1,4 +1,4 @@
-# Saunak Karnati Saunak Karnati
+# Saunak Karnati
 
 Purdue CS student (expected May 2030) interested in graphics and systems software.
 
